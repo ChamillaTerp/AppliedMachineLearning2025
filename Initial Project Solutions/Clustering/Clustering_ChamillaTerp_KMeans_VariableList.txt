@@ -1,0 +1,7 @@
+O_FE
+MG_FE
+AL_FE
+CR_FE
+FE_H
+CO_FE
+Energy
